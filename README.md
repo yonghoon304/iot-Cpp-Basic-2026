@@ -38,3 +38,18 @@
     - 앞 뒤로 const를 붙여 값,주소 모두 변경 불가능하게 가능
 
 6. 포인터 변수 대상 참조자 : [확인](./Base/Base07/Base07.cpp)
+
+### 2일차
+1. 배열,레퍼런스 : [확인](./Base/ref04/ref04.cpp)
+
+2. 메모리 할당 방법
+    ![alt text](image-10.png)
+
+3. 클래스 비교 
+    - C 구조체 : [확인](./Base/class01/class01.cpp)
+    - C++ 구조체 : [확인](./Base/class02/class02.cpp)
+    - C++ 클래스 : [확인](./Base/class04/class03.cpp)
+    - C++ 클래스2 : [확인](./Base/class04/class04.cpp)
+    - 응용 : [확인](./Base/MyClass/MyClass.cpp),[확인](./Base/MyClass02/MyClass02.cpp)
+
+4. 이니셜라이저 초기화 : [확인1](./Base/initial02/initial02.cpp),[확인2](./Base/initial03/initial03.cpp)
