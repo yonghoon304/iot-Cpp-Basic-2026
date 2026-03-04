@@ -15,13 +15,18 @@
   <Project Path="class02/class02.vcxproj" Id="1fc78561-d656-413e-8d6d-356f1d222fc7" />
   <Project Path="class03/class03.vcxproj" Id="2cb22957-e46a-4d62-912b-6af00c0a3f5d" />
   <Project Path="class04/class04.vcxproj" Id="f63964cf-5707-4dab-80bd-210931926fae" />
+  <Project Path="conversionconstructor/conversionconstructor.vcxproj" Id="3e657e21-e887-4bcf-9ec8-9f8e92d754ed" />
+  <Project Path="copycon/copycon.vcxproj" Id="ed7d429d-d739-4b4d-a5f6-5d405eff988d" />
+  <Project Path="copycon02/copycon02.vcxproj" Id="763a3add-8439-4356-b0bc-3b9f1d8cf854" />
   <Project Path="initial01/initial01.vcxproj" Id="8e9635a5-ab61-45d1-a6f9-7db260c1286f" />
   <Project Path="initial02/initial02.vcxproj" Id="310adcfe-6a61-4e8c-b5da-3fdbb200dd6c" />
   <Project Path="initial03/initial03.vcxproj" Id="a8e42bfc-9ec0-4214-9ffe-90a5c3bf7584" />
+  <Project Path="moveconstructor/moveconstructor.vcxproj" Id="38be9117-e9e5-46d6-8c72-2b864f0b3f1f" />
   <Project Path="MyClass/MyClass.vcxproj" Id="149beaac-f6ee-4ebc-a080-6256681d60ae" />
   <Project Path="MyClass02/MyClass02.vcxproj" Id="55f7ba5f-9717-42df-9324-ace96c9b4f71" />
   <Project Path="ref01/ref01.vcxproj" Id="aedfe7e0-7139-44f3-832b-cb28697b6d28" />
   <Project Path="ref02/ref02.vcxproj" Id="351ab0e9-f66f-4424-8b8f-dde5399215e4" />
   <Project Path="ref03/ref03.vcxproj" Id="1002828e-a517-45be-9a20-3b2a503fe956" />
   <Project Path="ref04/ref04.vcxproj" Id="dbfc5bc5-a9de-44ea-bcdc-34335d8fc2e4" />
+  <Project Path="rvalue/rvalue.vcxproj" Id="8a3eda0f-9fd2-4be3-97e0-4742258957d7" />
 </Solution>

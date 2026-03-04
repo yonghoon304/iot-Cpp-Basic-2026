@@ -52,4 +52,40 @@
     - C++ 클래스2 : [확인](./Base/class04/class04.cpp)
     - 응용 : [확인](./Base/MyClass/MyClass.cpp),[확인](./Base/MyClass02/MyClass02.cpp)
 
-4. 이니셜라이저 초기화 : [확인1](./Base/initial02/initial02.cpp),[확인2](./Base/initial03/initial03.cpp)
+4. 이니셜라이저 초기화 : [확인1](./Base/initial02/initial02.cpp), [확인2](./Base/initial03/initial03.cpp)
+
+### 3일차
+1. 복사 생성자  : [확인](./Base/copycon/copycon.cpp)(얕은 복사)
+    - 생성자란?
+        - 클래스 이름과 같은 이름을 가진 함수
+        - 리턴 타입이 없음(void)도 안붙임
+        - 객체가 만들어질 때 자동으로 호출됨
+
+    - 생성자에서 `char타입에 const가 붙는 이유`?
+        - 문자열 리터럴은 수정하면 안되기 때문.
+
+    - 복사 생서자를 쓰는 이유?
+        - `메모리`
+        - 안쓰면 포인터주소만 복사(얕은 복사)
+            ![alt text](image-11.png)
+        - 쓰면 내용도 복사 (깊은 복사)
+            ![alt text](image-12.png)
+    - 소멸자란? 
+        - 객체가 사라질 때 필요한 정리 작업을 자동으로 수행하기 위함.
+            - 없으면 메모리 누수(memory leak) 우려
+
+2. C++ 동적할당 : [확인](./Base/copycon02/new1.cpp)
+    - new ~ delete[]
+    - 깊은 복사 : [확인](./Base/copycon02/copycon02.cpp)
+
+3. 이동 생성자 : [확인](./Base/moveconstructor/moveconstructor.cpp)
+    - 복사 생성자는 객체를 모두 복사해서 사용하고 이동 생성자는 원본 객체를 복사하지 않는다.
+    - move호출은 객체를 rvalue로 캐스팅하여 이동생성자에 전달된다.
+    - 주소를 새객체로 복사하고 기본 객체는 null로 처리한다(소유권 이전)
+    -  this ? 
+        ![alt text](image-13.png)
+
+4. 변환 생성자 : [확인](./Base/conversionconstructor/conversionconstructor.cpp)
+
+### 4일차
+1.  static 맴버 변수 접근
