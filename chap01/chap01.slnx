@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="03.operator/03.operator.vcxproj" />
+  <Project Path="04.condition/04.condition.vcxproj" />
+  <Project Path="05.Loop-02/05.Loop-02.vcxproj" />
+  <Project Path="05.Loop-03/05.Loop-03.vcxproj" />
+  <Project Path="06.function/06.function.vcxproj" />
+  <Project Path="Basic01/Basic01.vcxproj" />
+  <Project Path="Basic02/Basic02.vcxproj" />
+  <Project Path="Loop/Loop.vcxproj" />
+</Solution>
