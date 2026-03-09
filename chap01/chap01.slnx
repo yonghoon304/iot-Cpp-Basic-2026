@@ -3,12 +3,21 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="03.operator/03.operator.vcxproj" />
-  <Project Path="04.condition/04.condition.vcxproj" />
-  <Project Path="05.Loop-02/05.Loop-02.vcxproj" />
-  <Project Path="05.Loop-03/05.Loop-03.vcxproj" />
-  <Project Path="06.function/06.function.vcxproj" />
-  <Project Path="Basic01/Basic01.vcxproj" />
-  <Project Path="Basic02/Basic02.vcxproj" />
-  <Project Path="Loop/Loop.vcxproj" />
+  <Project Path="03.operator/03.operator.vcxproj" Id="7b5cc0d5-16ac-43a4-a102-58c380be0011" />
+  <Project Path="04.condition/04.condition.vcxproj" Id="52857736-6c0f-4255-a560-7994db0e5c3e" />
+  <Project Path="05.function/05.function.vcxproj" Id="67418526-8b19-4923-9828-04e7197e2cd3" />
+  <Project Path="05.Loop-02/05.Loop-02.vcxproj" Id="2fe2b00c-988d-497d-a375-baf39bb2f0e9" />
+  <Project Path="05.Loop-03/05.Loop-03.vcxproj" Id="fbbfcc87-874d-4d99-8787-10068dec18ba" />
+  <Project Path="06.function-03/06.function-03.vcxproj" Id="76675b66-25d3-4ce1-8583-1b6413e476bb" />
+  <Project Path="06.function-04/06.function-04.vcxproj" Id="b7e7fdf0-4c9f-4122-84e1-458153cc29f9" />
+  <Project Path="06.function/06.function.vcxproj" Id="0be470d0-4df5-4136-a57a-bdbaffc4e372" />
+  <Project Path="07.class-02/07.class-02.vcxproj" Id="caff4407-9f1e-499d-9fdc-0d9e57ed6a15" />
+  <Project Path="07.class-03/07.class-03.vcxproj" Id="72c96565-cf2c-4145-be6d-6dda4e795b5d" />
+  <Project Path="07.class/07.class.vcxproj" Id="402718b9-963e-4d23-a6ac-363480b3f7a9" />
+  <Project Path="08.static/08.static.vcxproj" Id="cec120f5-19e1-47db-8d17-72d156bc3170" />
+  <Project Path="09.singleton/09.singleton.vcxproj" Id="2ca5cb25-abe3-4ea7-966f-1a75c80545be" />
+  <Project Path="10.game/10.game.vcxproj" Id="fa0b4a32-d96b-4770-881f-958424eaf4eb" />
+  <Project Path="Basic01/Basic01.vcxproj" Id="b58c6d30-f23d-4198-8c24-bf38ce581663" />
+  <Project Path="Basic02/Basic02.vcxproj" Id="6bdfe9b2-f7d3-422b-8221-4b198f1c6b85" />
+  <Project Path="Loop/Loop.vcxproj" Id="f1f1002d-0d20-48dd-bc26-aa7cb1fc665f" />
 </Solution>

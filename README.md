@@ -88,6 +88,24 @@
 4. 변환 생성자 : [확인](./Base/conversionconstructor/conversionconstructor.cpp)
 
 ### 4일차(다른 강사 대체)
+
 1. 변수 간단히 [확인](./chap01/Basic01/Basic01.cpp),[확인](./chap01/Basic02/Basic02.cpp)
 
-2. 연산자 
+2. 연산자 [확인](./chap01/04.condition/04.condition.cpp)
+3. 루프 [확인](./chap01/05.Loop-02/05.Loop-02.cpp),[확인](./chap01/05.Loop-03/05.Loop-03.cpp)
+4. 함수 [함수](./chap01/06.function/06.function.cpp)
+
+### 5일차
+
+1. 함수
+    - cin >> noskipws >> 변수
+        - noskipws는 공백(스페이스,엔터,탭)을 그대로 입력받음.
+    - isalpha()는 문자가 알파벳인지 확인하는 함수(cctype)
+    - toupper()는 소문자를 대문자로 바꾸는 함수(cctype)
+    - tolower()는 대문자를 소문자로 바꾸는 함수(cctype)
+    
+2. 클래스
+    - static은 메서드 영역에 저장, 일반 변수는 heap영역에(사라짐)
+    - static은 static만 가능 static이 상위개념
+    
+    
