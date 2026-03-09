@@ -87,5 +87,7 @@
 
 4. 변환 생성자 : [확인](./Base/conversionconstructor/conversionconstructor.cpp)
 
-### 4일차
-1.  static 맴버 변수 접근
+### 4일차(다른 강사 대체)
+1. 변수 간단히 [확인](./chap01/Basic01/Basic01.cpp),[확인](./chap01/Basic02/Basic02.cpp)
+
+2. 연산자 
