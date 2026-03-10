@@ -17,6 +17,11 @@
   <Project Path="08.static/08.static.vcxproj" Id="cec120f5-19e1-47db-8d17-72d156bc3170" />
   <Project Path="09.singleton/09.singleton.vcxproj" Id="2ca5cb25-abe3-4ea7-966f-1a75c80545be" />
   <Project Path="10.game/10.game.vcxproj" Id="fa0b4a32-d96b-4770-881f-958424eaf4eb" />
+  <Project Path="11.extension-02/11.extension-02.vcxproj" Id="8ba106f7-28fd-40f3-b4dc-5acfa6b3b26b" />
+  <Project Path="11.extension/11.extension.vcxproj" Id="ef67ab2d-ebac-4d9d-b7d0-d73ffc09f2ec" />
+  <Project Path="12.typecasting/12.typecasting.vcxproj" Id="d61417a0-4fc3-4e1d-8312-08d7acc87348" />
+  <Project Path="13.app/13.app.vcxproj" Id="da2bfd65-621c-4efb-b2a6-d983ed20b924" />
+  <Project Path="14.app02/14.app02.vcxproj" Id="77b693b4-2f9f-40b0-b78d-f5ab2fce0cb3" />
   <Project Path="Basic01/Basic01.vcxproj" Id="b58c6d30-f23d-4198-8c24-bf38ce581663" />
   <Project Path="Basic02/Basic02.vcxproj" Id="6bdfe9b2-f7d3-422b-8221-4b198f1c6b85" />
   <Project Path="Loop/Loop.vcxproj" Id="f1f1002d-0d20-48dd-bc26-aa7cb1fc665f" />

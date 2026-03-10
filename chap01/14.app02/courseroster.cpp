@@ -1,0 +1,24 @@
+#include "courseRoster.h"
+CourseRoster::CourseRoster()
+	:size(0) {
+	stdNames=new string[20];
+}
+CourseRoster::~CourseRoster() {
+	delete[] stdNames;
+}
+void CourseRoster::addStudent(string studentName) {
+	if (size < 20) {
+		stdNames[size] = studentName;
+		size++;
+
+	}
+	else {
+		cout << "Course roster is full" << endl;
+	}
+}
+void CourseRoster::print() const {
+	cout << "Course Roster: " << endl;
+	for (int i = 0; i < size; i++) {
+		cout << stdNames[i] << endl;
+	}
+}
