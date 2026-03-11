@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01.array/01.array.vcxproj" />
+  <Project Path="02.array/02.array.vcxproj" />
+  <Project Path="app_application/app_application.vcxproj" />
+  <Project Path="exception01/exception01.vcxproj" />
+  <Project Path="exception02/exception02.vcxproj" />
+</Solution>

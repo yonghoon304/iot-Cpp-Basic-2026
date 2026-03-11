@@ -22,6 +22,7 @@
   <Project Path="12.typecasting/12.typecasting.vcxproj" Id="d61417a0-4fc3-4e1d-8312-08d7acc87348" />
   <Project Path="13.app/13.app.vcxproj" Id="da2bfd65-621c-4efb-b2a6-d983ed20b924" />
   <Project Path="14.app02/14.app02.vcxproj" Id="77b693b4-2f9f-40b0-b78d-f5ab2fce0cb3" />
+  <Project Path="15.Multiinheritance/15.Multiinheritance.vcxproj" Id="0ed701ff-a87f-426e-9f91-fbd7f2fcc2a8" />
   <Project Path="Basic01/Basic01.vcxproj" Id="b58c6d30-f23d-4198-8c24-bf38ce581663" />
   <Project Path="Basic02/Basic02.vcxproj" Id="6bdfe9b2-f7d3-422b-8221-4b198f1c6b85" />
   <Project Path="Loop/Loop.vcxproj" Id="f1f1002d-0d20-48dd-bc26-aa7cb1fc665f" />
