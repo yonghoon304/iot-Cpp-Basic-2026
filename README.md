@@ -108,4 +108,14 @@
     - static은 메서드 영역에 저장, 일반 변수는 heap영역에(사라짐)
     - static은 static만 가능 static이 상위개념
     
-    
+### 6일차
+
+1. 객체생성 실습
+    - ctrl+h 하면 코드내에 반복 문자들을 쉽게 변경가능
+    - 학습 더 필요, 수업 20%이해
+2. 상속
+
+### 7일차
+1 . [확인](./chap01/app_application/test/memCYH.cpp)
+    ![alt text](image-14.png)
+    미흡한 부분 실습해볼 것.
