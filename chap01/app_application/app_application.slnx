@@ -3,9 +3,17 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="01.array/01.array.vcxproj" />
-  <Project Path="02.array/02.array.vcxproj" />
-  <Project Path="app_application/app_application.vcxproj" />
-  <Project Path="exception01/exception01.vcxproj" />
-  <Project Path="exception02/exception02.vcxproj" />
+  <Project Path="01.array/01.array.vcxproj" Id="43bf9369-2165-4252-a012-be223f72fe37" />
+  <Project Path="02.array/02.array.vcxproj" Id="2f582b02-4284-4be1-9dc0-481abc35ac1d" />
+  <Project Path="app_application/app_application.vcxproj" Id="369c66a1-914f-41a9-9f1c-cd7712084d2d" />
+  <Project Path="exception01/exception01.vcxproj" Id="5ab87741-f658-484d-9099-f2a3a3288579" />
+  <Project Path="exception02/exception02.vcxproj" Id="cc2f16bc-653c-4348-836e-bca9a93be337" />
+  <Project Path="io_read/io_read.vcxproj" Id="766b8acf-64d7-495d-a3f3-4aaef5514530" />
+  <Project Path="io_write/io_write.vcxproj" Id="05a3061b-3120-41ff-87ae-6bbb6bb67160" />
+  <Project Path="linkedlist/linkedlist.vcxproj" Id="e5b0a0d2-e6c6-49fa-bd5f-e861c8ea476f" />
+  <Project Path="map01/map01.vcxproj" Id="327cce7a-26d6-4ed7-96f6-81afbc027bf9" />
+  <Project Path="set01/set01.vcxproj" Id="2a024cad-f662-45e4-b7de-7b856d0307d4" />
+  <Project Path="stack01/stack01.vcxproj" Id="6a4dce3f-cd65-47e4-9387-200acb6e0e56" />
+  <Project Path="test/test.vcxproj" Id="5a2f7544-435a-4e6e-bb11-f2b38d1fa593" />
+  <Project Path="vector01/vector01.vcxproj" Id="d3cc5860-861e-4084-b899-141d368eff25" />
 </Solution>
